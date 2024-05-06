@@ -1,0 +1,3 @@
+pandas
+bqplot
+ipywidgets
