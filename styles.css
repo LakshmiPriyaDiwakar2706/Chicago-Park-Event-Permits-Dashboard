@@ -10,10 +10,11 @@ body {
     margin-bottom: 20px;
 }
 
-h1 {
+.content h1 {
+    text-align: center;
     color: #336699;
-    text-align: center
 }
+
 
 .button-container {
     display: flex;        /* Enables flexbox */
