@@ -5,16 +5,15 @@ body {
     color: #333;
 }
 
-.content ul, .button-container {
-    text-align: left;
-    margin-bottom: 20px;
-}
-
 .content h1 {
     text-align: center;
     color: #336699;
 }
 
+.content ul, .button-container {
+    text-align: left;
+    margin-bottom: 20px;
+}
 
 .button-container {
     display: flex;        /* Enables flexbox */
